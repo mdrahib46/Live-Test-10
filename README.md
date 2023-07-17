@@ -6,11 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Output
+## Potrait view
+![Potrait view](https://github.com/mdrahib46/Live-Test-10/assets/57681390/85770179-d948-4bcb-a8a9-2b15b22a1a88)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Landscape View
+![Landscape view](https://github.com/mdrahib46/Live-Test-10/assets/57681390/a765be50-e868-423c-8089-1a1598c0d4cf)
